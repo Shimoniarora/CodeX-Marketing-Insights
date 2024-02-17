@@ -78,6 +78,23 @@ People drink these beverages more when:
 - Doing sports/exercise
 - Studying/working late
 The data also shows that young people consume these drinks more.
+![8](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/d11a7a4d-f774-429d-8467-f5f046b852c5)
+
+
+**c. What factors influence respondents’ purchase decisions, such as price range and limited edition packaging?**
+43% of consumers purchase a product when priced between 50-99. 40% anticipate no packaging change, whereas 39% are willing to explore Limited Edition Packaging.
+
+![9](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/b3ff96a4-d670-4193-ade8-ad419353155f)
+![10](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/0c0bbb73-86cd-4e10-b1e1-c933fefaa598)
+
+**6.Product Development**
+
+**a. Which area of business should we focus more on our product development?
+(Branding/taste/availability)**
+- Among 980 CodeX respondents, only 219 hold a positive brand perception.
+- Taste experience rating aligns with industry standards, requiring no immediate attention.
+- Focus on improving product availability, as 20% choose based on accessibility—a crucial factor influencing sales
+![11](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/da25ada0-c61e-41eb-ae0a-65c8efa6940b)
 
 
 
