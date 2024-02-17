@@ -3,6 +3,19 @@
 **Project Overview:**
 CodeX, a German beverage company, has recently entered the Indian market, introducing its energy drink in 10 cities. A survey was conducted in these cities, garnering responses from 10,000 participants. The survey explored consumer behavior, such as purchasing habits, feedback on existing energy drinks, pricing, packaging, etc. The Marketing Team wants the Data Analyst to turn survey results into useful insights for decision-making. They've requested specific insights and practical recommendations based on the data and external factors to inform their actions.
 
+**live dashboard link :** https://codebasics.io/portfolio/Shimoni-Arora
+
+**The dataset provided by the Codebasics** 
+
+CodeX provided 3 CSV files:
+
+-dim_respondents
+
+-dim_cities
+
+-fact_survey_responses
+
+
 **Problem Statement and Solutions:**
 
 **Primary Insights:**
@@ -48,6 +61,7 @@ Consumers mainly choose brands because of their good reputation and taste of the
 **b. How effective are different marketing strategies and channels in reaching our
 customers?**
 
+
 Online ads are the best way to quickly reach a lot of people, and they are also cost-effective.
 
 ![3](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/6f6904db-498b-44e2-b4c8-2dca65fd2cc9)
@@ -56,9 +70,11 @@ Online ads are the best way to quickly reach a lot of people, and they are also 
 
 **a. What do people think about our brand? (overall rating)**
 
+
 Out of 980, 455 people know about our brand, and we consider their ratings for the taste of CodeX product. The rating of 3.3 is also the industry average rating.
 
 **b. Which cities do we need to focus more on?**
+
 
 This data reveals how people see CodeX as a brand in various cities. The visual combines neutral and negative responses because they are more numerous than positive responses. Therefore, improving positive feedback is an area where marketing should concentrate.
 
@@ -68,11 +84,13 @@ This data reveals how people see CodeX as a brand in various cities. The visual 
 
 **a. Where do respondents prefer to purchase energy drinks?**
 
+
 The most common choice for purchasing is Supermarkets.
 
 ![7](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/0d555845-ce6a-4da5-bfbc-686ddbd21cf0)
 
 **b. What are the typical consumption situations for energy drinks among respondents?**
+
 People drink these beverages more when:
 
 - Doing sports/exercise
@@ -82,6 +100,7 @@ The data also shows that young people consume these drinks more.
 
 
 **c. What factors influence respondents’ purchase decisions, such as price range and limited edition packaging?**
+
 43% of consumers purchase a product when priced between 50-99. 40% anticipate no packaging change, whereas 39% are willing to explore Limited Edition Packaging.
 
 ![9](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/b3ff96a4-d670-4193-ade8-ad419353155f)
@@ -97,4 +116,48 @@ The data also shows that young people consume these drinks more.
 ![11](https://github.com/Shimoniarora/CodeX-Marketing-Insights/assets/158834865/da25ada0-c61e-41eb-ae0a-65c8efa6940b)
 
 
+**Recommendations For CodeX**
+
+**-What immediate improvements can we bring to the product?**
+
+-Make the product more available
+-Explore health-related queries in a separate survey for 455 respondents familiar with us. 
+-Enhance Limited Edition Packaging by using natural ingredients, reducing sugar, and introducing new flavors.
+-Elevate positive response rates.
+
+**-What should be the ideal price of our product?**
+People usually expect prices between 50 and 150. In cities like Ahmedabad, Chennai, Hyderabad, Kolkata, Lucknow, Mumbai, and Pune, the expected range is 50-99, whereas in other cities, people are okay with paying up to 150.
+
+**-What kind of marketing campaigns, offers, and discounts we can run?**
+In the earlier suggestion, we explored adjusting prices in various cities. If altering prices doesn't align with the brand strategy, consider offering discounts on purchasing a pack of 6 cans. Since each city celebrates multiple festivals annually, introducing gift set packs is another potential strategy. 
+
+**Marketing Strategies:**
+
+
+1.Social Media:
+
+-Utilize Social Media Ads to engage the active 15-30 age group.
+
+2.Influencer Marketing:
+
+-Collaborate with local influencers for brand exposure and sales.
+
+-Distribute products through influencers for improved brand perception.
+
+-Offer exclusive coupons for customer retention and cost-effective remarketing.
+
+3.Guerilla Marketing:
+
+-Create special displays in supermarkets and pay for exclusive product placements.
+
+-Participate in events for creative campaigns and free testers to gather valuable feedback.
+
+**-Who can be a brand ambassador, and why?**
+
+We need someone like Virat Kohli, a youth icon known for discipline and fitness. While partnering with him can be pricey, his wide social media reach and endorsements make it worthwhile.
+
+
+**-Who should be our target audience, and why?**
+
+The numbers clearly show that most of our customers are aged between 15 and 30. 70% of our customers fall into the youth category, according to the survey.
 
